@@ -1,1 +1,1 @@
-# This a simple solidity contract that acts a funds a contract's creator wallet
+# This a simple solidity contract that funds a contract's creator wallet
